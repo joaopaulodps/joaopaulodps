@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m João Paulo</h1>
-- 🔭 I’m currently studying to be a 𝖥ull Stack W𝖾𝖻 D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋
-- 🌱 I’m currently learning React.JS
+- 🔭 I’m currently studying to be a 𝖥ull Stack W𝖾𝖻 D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋<br>
+- 🌱 I’m currently learning React.JS<br>
 - ❤️ Sports + Statistics + 𝖢𝗈𝖽𝗂𝗇𝗀
 
 <!---

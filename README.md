@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m João Paulo</h1>
 - 🔭 I’m currently studying to be a 𝖥ull Stack W𝖾𝖻 D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋<br>
-- 🌱 I’m currently learning MySQL<br>
+- 🌱 I’m currently learning PHPL<br>
 - ❤️ Sports + Stats + 𝖢𝗈𝖽𝗂𝗇𝗀
 
 <!---

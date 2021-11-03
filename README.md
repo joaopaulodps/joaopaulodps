@@ -1,7 +1,11 @@
-<h1>👋 Hi, I’m João Paulo</h1>
-- 🔭 I’m currently studying to be a 𝖥ull Stack W𝖾𝖻 D𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋<br>
-- 🌱 I’m currently learning PHPL<br>
-- ❤️ Sports + Stats + 𝖢𝗈𝖽𝗂𝗇𝗀
+<h1>👋 Olá, tudo bem?</h1>
+Me chamo João Paulo, tenho 23 anos e moro em Juiz de Fora-MG.
+Atualmente estudando na escola NewTab Academy, para ser um Desenvolvedor Full Stack.
+Adquirindo conhecimentos em JavaScript, React.JS, MySQL e PHP.
+Alguns projetos feitos:
+- https://optimistic-bartik-57f310.netlify.app/
+- https://joaopaulodps.github.io/Projeto-React/
+- https://zeeckcwb.github.io/hashtagFinder/
 
 <!---
 joaopaulodps/joaopaulodps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
